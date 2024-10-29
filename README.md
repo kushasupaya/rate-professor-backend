@@ -9,8 +9,5 @@ A RAG model built with fast API to get data from rate my professor.
 ## To run the server use
 
 ```bash
-python manage.py runserver
+fastapi dev ragmodel.py
 ```
-
-> [!IMPORTANT]  
-> Before running the server do `python manage.py migrate`.
