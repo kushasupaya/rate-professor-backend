@@ -1,6 +1,6 @@
 # Rate My Professor Backend
 
-A RAG model with python-django to get data from rate my professor.
+A RAG model built with fast API to get data from rate my professor.
 
 > [!IMPORTANT]  
 > Make sure all the packages are installed before running the server.
